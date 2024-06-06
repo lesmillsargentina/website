@@ -1,0 +1,3 @@
+eclubConfiguration.xml
+# Except this file
+!.gitignore
